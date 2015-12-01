@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/guruchetansingh/Personal/git/QR/QrApp/zxing-2.1/zxing-2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/pre-dexed/debug/zxing-2.1-a3e08753edfa6ea1ae379571c194b7607a09fb29.jar" />
+    </item>
+    <item
+        jar="/Users/guruchetansingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-bd284909699d15b7d2829b3e86d13c700f679199.jar" />
+    </item>
+    <item
+        jar="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/pre-dexed/debug/classes-ac2254ae5d46daf365b3df60b7dccb1933f9b00b.jar" />
+    </item>
+    <item
+        jar="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/pre-dexed/debug/classes-7d54d7fe412be35a53385261679a449ab5c9ab6b.jar" />
+    </item>
+    <item
+        jar="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/guruchetansingh/Personal/git/QR/QrApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9ddca07b6f45f55b75637e761868c79a254c398d.jar" />
+    </item>
+
+</items>
